@@ -572,7 +572,7 @@ $scanner_results = file_exists(SCANNER_RESULTS_FILE) ? json_decode(file_get_cont
                     scanStatusMsg.textContent = '➡️ Scan started...';
                     fetch('check_scan_status.php').then(res => res.json()).then(initialData => {
                         const initialTimestamp = initialData.last_scan_timestamp;
-                        fetch('trigger_scan.php');
+                        fetch('https://max-kent-drinking-paint.trycloudflare.com/software_tools/PING/trigger_scan.php');
                         let dots = 1;
                         const poller = setInterval(() => {
                             scanStatusMsg.textContent = 'Scanning in progress' + '.'.repeat(dots);
@@ -622,3 +622,4 @@ $scanner_results = file_exists(SCANNER_RESULTS_FILE) ? json_decode(file_get_cont
     </script>
 </body>
 </html>
+
