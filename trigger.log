@@ -1,0 +1,59 @@
+--- Trigger script executed at: 2025-09-18 12:17:00 ---
+Executed background command: /usr/bin/php '/home/court/software_tools/PING/network_scanner_backend.php' >> '/home/court/software_tools/PING/trigger.log' 2>&1 &
+PHP Warning:  file_put_contents(scanner_results.json): Failed to open stream: Permission denied in /home/court/software_tools/PING/network_scanner_backend.php on line 63
+--- Trigger script executed at: 2025-09-18 12:24:49 ---
+Executed background command: /usr/bin/php '/home/court/software_tools/PING/network_scanner_backend.php' >> '/home/court/software_tools/PING/trigger.log' 2>&1 &
+--- Trigger script executed at: 2025-09-18 12:29:31 ---
+Executed background command: /usr/bin/php '/home/court/software_tools/PING/network_scanner_backend.php' >> '/home/court/software_tools/PING/trigger.log' 2>&1 &
+--- Trigger script executed at: 2025-09-18 12:36:17 ---
+Executed background command: /usr/bin/php '/home/court/software_tools/PING/network_scanner_backend.php' >> '/home/court/software_tools/PING/trigger.log' 2>&1 &
+--- Trigger script executed at: 2025-09-18 12:54:40 ---
+Executed background command: /usr/bin/php '/home/court/software_tools/PING/network_scanner_backend.php' >> '/home/court/software_tools/PING/trigger.log' 2>&1 &
+--- Trigger script executed at: 2025-09-18 12:58:02 ---
+Executed background command: /usr/bin/php '/home/court/software_tools/PING/network_scanner_backend.php' >> '/home/court/software_tools/PING/trigger.log' 2>&1 &
+--- Trigger script executed at: 2025-09-18 12:58:26 ---
+Executed background command: /usr/bin/php '/home/court/software_tools/PING/network_scanner_backend.php' >> '/home/court/software_tools/PING/trigger.log' 2>&1 &
+--- Trigger script executed at: 2025-09-18 12:59:09 ---
+Executed background command: /usr/bin/php '/home/court/software_tools/PING/network_scanner_backend.php' >> '/home/court/software_tools/PING/trigger.log' 2>&1 &
+--- Trigger script executed at: 2025-09-19 05:14:07 ---
+Executed background command: /usr/bin/php '/home/court/software_tools/PING/network_scanner_backend.php' >> '/home/court/software_tools/PING/trigger.log' 2>&1 &
+--- Trigger script executed at: 2025-09-24 06:08:23 ---
+Executed background command: /usr/bin/php '/home/court/software_tools/PING/network_scanner_backend.php' >> '/home/court/software_tools/PING/trigger.log' 2>&1 &
+--- Trigger script executed at: 2025-09-24 12:04:14 ---
+Executed background command: /usr/bin/php '/home/court/software_tools/PING/network_scanner_backend.php' >> '/home/court/software_tools/PING/trigger.log' 2>&1 &
+--- Trigger script executed at: 2025-09-24 12:04:33 ---
+Executed background command: /usr/bin/php '/home/court/software_tools/PING/network_scanner_backend.php' >> '/home/court/software_tools/PING/trigger.log' 2>&1 &
+--- Trigger script executed at: 2025-09-24 12:05:32 ---
+Executed background command: /usr/bin/php '/home/court/software_tools/PING/network_scanner_backend.php' >> '/home/court/software_tools/PING/trigger.log' 2>&1 &
+--- Trigger script executed at: 2025-09-24 12:39:24 ---
+Executed background command: /usr/bin/php '/home/court/software_tools/PING/network_scanner_backend.php' >> '/home/court/software_tools/PING/trigger.log' 2>&1 &
+--- Trigger script executed at: 2025-09-25 05:28:00 ---
+Executed background command: /usr/bin/php '/home/court/software_tools/PING/network_scanner_backend.php' >> '/home/court/software_tools/PING/trigger.log' 2>&1 &
+--- Trigger script executed at: 2025-09-25 06:46:42 ---
+Executed background command: /usr/bin/php '/home/court/software_tools/PING/network_scanner_backend.php' >> '/home/court/software_tools/PING/trigger.log' 2>&1 &
+--- Trigger script executed at: 2025-09-25 06:54:43 ---
+Executed background command: /usr/bin/php '/home/court/software_tools/PING/network_scanner_backend.php' >> '/home/court/software_tools/PING/trigger.log' 2>&1 &
+--- Trigger script executed at: 2025-09-25 07:41:13 ---
+Executed background command: /usr/bin/php '/home/court/software_tools/PING/network_scanner_backend.php' >> '/home/court/software_tools/PING/trigger.log' 2>&1 &
+--- Trigger script executed at: 2025-09-25 08:07:19 ---
+Executed background command: /usr/bin/php '/home/court/software_tools/PING/network_scanner_backend.php' >> '/home/court/software_tools/PING/trigger.log' 2>&1 &
+--- Trigger script executed at: 2025-09-25 08:07:41 ---
+Executed background command: /usr/bin/php '/home/court/software_tools/PING/network_scanner_backend.php' >> '/home/court/software_tools/PING/trigger.log' 2>&1 &
+--- Trigger script executed at: 2025-09-25 12:06:57 ---
+Executed background command: /usr/bin/php '/home/court/software_tools/PING/network_scanner_backend.php' >> '/home/court/software_tools/PING/trigger.log' 2>&1 &
+--- Trigger script executed at: 2025-09-26 06:02:00 ---
+Executed background command: /usr/bin/php '/home/court/software_tools/PING/network_scanner_backend.php' >> '/home/court/software_tools/PING/trigger.log' 2>&1 &
+--- Trigger script executed at: 2025-09-26 06:37:51 ---
+Executed background command: /usr/bin/php '/home/court/software_tools/PING/network_scanner_backend.php' >> '/home/court/software_tools/PING/trigger.log' 2>&1 &
+--- Trigger script executed at: 2025-09-26 10:57:52 ---
+Executed background command: /usr/bin/php '/home/court/software_tools/PING/network_scanner_backend.php' >> '/home/court/software_tools/PING/trigger.log' 2>&1 &
+--- Trigger script executed at: 2025-09-26 11:16:57 ---
+Executed background command: /usr/bin/php '/home/court/software_tools/PING/network_scanner_backend.php' >> '/home/court/software_tools/PING/trigger.log' 2>&1 &
+--- Trigger script executed at: 2025-09-27 09:09:58 ---
+Executed background command: /usr/bin/php '/home/court/software_tools/PING/network_scanner_backend.php' >> '/home/court/software_tools/PING/trigger.log' 2>&1 &
+--- Trigger script executed at: 2025-09-27 12:51:17 ---
+Executed background command: /usr/bin/php '/home/court/software_tools/PING/network_scanner_backend.php' >> '/home/court/software_tools/PING/trigger.log' 2>&1 &
+--- Trigger script executed at: 2025-09-27 12:54:53 ---
+Executed background command: /usr/bin/php '/home/court/software_tools/PING/network_scanner_backend.php' >> '/home/court/software_tools/PING/trigger.log' 2>&1 &
+--- Trigger script executed at: 2025-10-08 06:50:21 ---
+Executed background command: /usr/bin/php '/home/court/software_tools/PING/network_scanner_backend.php' >> '/home/court/software_tools/PING/trigger.log' 2>&1 &
